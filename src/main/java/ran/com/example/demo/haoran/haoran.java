@@ -1,4 +1,4 @@
-package com.example.demo.haoran;
+package ran.com.example.demo.haoran;
 
 public class haoran {
     public static void main(String[] args) {
