@@ -8,8 +8,6 @@ public class DemoApplication {
 
     public static void main(String[] args) {
         System.out.println("晨阳宝宝我爱你");
-
-
     }
 
 }
